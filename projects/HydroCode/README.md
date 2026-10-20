@@ -1,3 +1,6 @@
+
+<img src="d40973fb-1428-4662-a715-9597254e7080.png" alt="HydroCode logo" width="300">
+
 # HydroCode — Digital Water Infrastructure & Intelligence
 
 **Project strategy, system architecture and operational governance**  
