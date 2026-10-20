@@ -1,3 +1,5 @@
+<img src="598c5923-367e-4c6f-a6c3-321d1ba8f711.png" alt="GIG logo" width="220">
+
 # GIG — Grid of Inherent Geodata
 
 **Project strategy, technical architecture and decision governance**  
