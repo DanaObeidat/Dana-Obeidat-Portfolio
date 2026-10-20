@@ -23,5 +23,13 @@ A documented project design connecting location-specific evidence, uncertainty a
 
 [View GIG project](projects/GIG/README.md)
 
+### HydroCode — Digital Water Infrastructure & Intelligence
+
+Water infrastructure project combining a working virtual demonstrator with documented system architecture, operational governance and pilot planning.
+
+**Stage:** Working demonstrator tested with synthetic data; field validation remains pending.
+
+[View HydroCode project](projects/HydroCode/README.md)
+
 ## Contact
 [LinkedIn — Dana Obeidat](https://www.linkedin.com/in/dana-tariq-obeidat/)
