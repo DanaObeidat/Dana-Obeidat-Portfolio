@@ -64,6 +64,13 @@ The materials presented here do not establish completed site deployment, validat
 
 GIG is intended to support qualified professionals and asset owners. Engineering, hydrological, geotechnical, environmental and laboratory conclusions remain subject to the relevant specialist verification.
 
+## Work Sample
+
+A selected Coordinate Evidence Card excerpt prepared for professional review.
+
+[View work sample (PDF)](Dana%20Obeidat%20GIG%20Work%20Sample.pdf)
+
+
 ## About This Portfolio
 
 This page presents a selected public summary of my project design work for professional review. It excludes sensitive location data and detailed internal methods.
