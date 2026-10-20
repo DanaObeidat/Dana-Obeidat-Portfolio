@@ -6,6 +6,10 @@
 **Project strategy, system architecture and operational governance**  
 Developed by Dana Obeidat
 
+## Work Sample
+
+[View work sample (PDF)](Dana%20Obeidat%20HydroCode%20Work%20Sample.pdf)
+
 ## Overview
 
 HydroCode is a water infrastructure project designed to connect fragmented measurements, asset records and operational evidence to traceable decisions.
