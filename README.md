@@ -14,5 +14,14 @@ My focus includes:
 
 The materials are shared as professional work samples. Each project’s stage, assumptions and validation needs are identified in its documentation.
 
+## Selected Projects
+
+### GIG — Grid of Inherent Geodata
+A documented project design connecting location-specific evidence, uncertainty and governance to inspection and intervention priorities.
+
+**Stage:** Conceptual and technical design with a proposed pilot.
+
+[View GIG project](projects/GIG/README.md)
+
 ## Contact
 [LinkedIn — Dana Obeidat](https://www.linkedin.com/in/dana-tariq-obeidat/)
