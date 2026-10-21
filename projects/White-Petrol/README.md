@@ -9,7 +9,7 @@ Developed by Dana Obeidat
 
 ## Work Sample
 
-[View work sample (PDF)](Dana_Obeidat_White_Petrol_Work_Sample.pdf)
+[View work sample (PDF)](Dana%20Obeidat%20White%20Petrol%20Work%20Sample.pdf)
 
 
 ## Overview
