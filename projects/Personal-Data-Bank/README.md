@@ -40,6 +40,12 @@ The figures are exploratory assumptions. They are not validated market prices, a
 
 Further development requires a defined pricing unit, valuation methodology, currency treatment and supporting evidence.
 
+
+## Selected Work Sample
+
+[View work sample (PDF)](Dana%20Obeidat%20Personal%20Data%20Bank%20Work%20Sample.pdf)
+
+
 ## Project Stage
 
 Concept development and institutional design.
