@@ -5,6 +5,10 @@
 
 **Solid and Liquid Waste | Traceability, Material Intelligence and Evidence Controls**
 
+[View work sample (PDF)](Dana%20Obeidat%20YWIG%20Work%20Sample.pdf)
+
+
+
 ## Overview
 
 YWIG is a project design for connecting waste-source records, operational events, samples, laboratory results and qualification decisions.
