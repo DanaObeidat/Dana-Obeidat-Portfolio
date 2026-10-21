@@ -71,6 +71,11 @@ Concept development, technical documentation and outreach.
 
 The materials do not establish a deployed election system, completed pilot, independently tested security or approval for public elections.
 
+## Selected Work Sample
+
+[View work sample (PDF)](Dana%20Obeidat%20Digital%20Voting%20Work%20Sample.pdf)
+
+
 ## Professional Relevance
 
 This work demonstrates project design, technical requirements coordination, process documentation, pilot planning and institutional communication.
