@@ -58,6 +58,16 @@ Project design connecting material characterisation, environmental assessment, a
 
 [View Green Shale project](projects/Green-Shale/README.md)
 
+## YWIG — Your Waste Is Gold
+
+Project design covering solid and liquid waste through stream-specific traceability, sampling, laboratory evidence and material qualification workflows.
+
+**My contribution:** Project concept, technical architecture, operating procedures, quality controls and pilot planning.
+
+**Stage:** Documented design and simulation cases; field implementation and commercial outcomes remain unverified.
+
+[View YWIG project](projects/YWIG/README.md)
+
 
 
 ## Contact
