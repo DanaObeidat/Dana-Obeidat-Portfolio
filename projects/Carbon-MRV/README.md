@@ -9,9 +9,13 @@ Developed by Dana Obeidat
 
 [View work sample (PDF)](Dana_Obeidat_MRV_Work_Sample.pdf)
 
+
 ## Prototype
 
 [Open Carbon Footprint MRV Demo](https://carbon-footprint-mrv-demo.vercel.app)
+
+Functional prototype using synthetic organisational data.
+Demo access is available on request.
 
 Functional prototype using synthetic organisational data.
 
