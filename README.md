@@ -78,6 +78,16 @@ Strategic project concepts covering multisector workforce intelligence through T
 
 [View Talent Exchange project](projects/projects/Talent-Exchange/README.md)
 
+## Central Bank of Personal Data
+
+An institutional concept connecting personal data rights, governance, controlled licensing and exploratory economic valuation.
+
+**My contribution:** Concept development, executive summaries, proposed leadership structure and an initial data valuation framework.
+
+**Stage:** Concept development and institutional design.
+
+[View Personal Data Bank project](projects/Personal-Data-Bank/README.md)
+
 
 
 ## Contact
