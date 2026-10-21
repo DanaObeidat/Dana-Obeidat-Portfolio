@@ -1,5 +1,4 @@
 
-<img src="MRV%20logo.png" alt="Carbon MRV logo" width="220">
 
 # Dana Obeidat
 ## Project Strategy & Sustainability Portfolio
@@ -29,6 +28,14 @@ A documented project design connecting location-specific evidence, uncertainty a
 ### HydroCode — Digital Water Infrastructure & Intelligence
 
 Water infrastructure project combining a working virtual demonstrator with documented system architecture, operational governance and pilot planning.
+
+### Carbon Footprint MRV
+
+Institutional Scope 1 and Scope 2 emissions reporting, evidence traceability and review controls. Includes a functional prototype using synthetic data, with five user roles.
+
+[View project and work sample](projects/Carbon-MRV/README.md) · [Open prototype](https://carbon-footprint-mrv-demo.vercel.app)
+
+Demo access and a guided walkthrough are available on request.
 
 **Stage:** Working demonstrator tested with synthetic data; field validation remains pending.
 
