@@ -7,6 +7,8 @@
 
 Developed by Dana Obeidat
 
+[View work sample (PDF)](Dana_Obeidat_MRV_Work_Sample.pdf)
+
 ## Overview
 
 Carbon Footprint MRV is a project for structuring institutional Scope 1 and Scope 2 emissions reporting around traceable evidence, controlled calculations and clearly assigned review responsibilities.
