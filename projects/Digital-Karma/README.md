@@ -1,3 +1,7 @@
+
+<img src="Digital%20Karma.png" alt="Digital Karma logo" width="180">
+
+
 # Digital Karma
 
 **Institutional Performance and Accountability Concept**
