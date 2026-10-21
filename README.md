@@ -1,3 +1,6 @@
+
+<img src="MRV%20logo.png" alt="Carbon MRV logo" width="220">
+
 # Dana Obeidat
 ## Project Strategy & Sustainability Portfolio
 
