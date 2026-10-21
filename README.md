@@ -99,6 +99,15 @@ A proposed framework for institutional performance monitoring, accountability an
 [View Digital Karma project](projects/Digital-Karma/README.md)
 
 
+## Digital Voting — Jordan Smart Elections
+
+Election process concepts covering digital counting support, paper-based verification, results reporting and phased pilot planning.
+
+**My contribution:** Concept development, proposed technical architecture, process documentation, pilot planning and institutional outreach.
+
+**Stage:** Concept development and technical documentation.
+
+[View Digital Voting project](projects/Digital-Voting/README.md)
 
 
 ## Contact
