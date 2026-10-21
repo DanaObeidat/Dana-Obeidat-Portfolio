@@ -1,3 +1,6 @@
+
+<img src="CBFPD.png" alt="Central Bank of Personal Data logo" width="180">
+
 # Central Bank of Personal Data
 
 **Institutional Design | Data Governance | Data Valuation Concepts**
