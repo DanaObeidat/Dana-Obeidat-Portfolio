@@ -38,6 +38,13 @@ Water infrastructure project combining a working virtual demonstrator with docum
 
 Institutional Scope 1 and Scope 2 emissions reporting, evidence traceability and review controls. Includes a functional prototype using synthetic data, with five user roles.
 
+### White Petrol
+
+Industrial project design covering difficult hydrocarbon stream assessment, treatment-route evaluation, environmental and safety controls, pilot planning and financial scenarios.
+
+**Stage:** Documented concept, system design and pilot planning; industrial validation remains pending.
+
+[View White Petrol project](projects/White-Petrol/README.md)
 [View project and work sample](projects/Carbon-MRV/README.md) · [Open prototype](https://carbon-footprint-mrv-demo.vercel.app)
 
 Demo access and a guided walkthrough are available on request.
