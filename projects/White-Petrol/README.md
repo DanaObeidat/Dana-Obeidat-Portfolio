@@ -7,6 +7,11 @@
 
 Developed by Dana Obeidat
 
+## Work Sample
+
+[View work sample (PDF)](Dana_Obeidat_White_Petrol_Work_Sample.pdf)
+
+
 ## Overview
 
 White Petrol is a documented project design for assessing selected difficult and circular hydrocarbon streams before treatment, blending or scale decisions.
