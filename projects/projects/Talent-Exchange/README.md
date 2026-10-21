@@ -5,6 +5,11 @@
 
 **Workforce Intelligence and Cross-Border Talent Exchange Concepts**
 
+## Selected Work Sample
+
+[View work sample (PDF)](Dana%20Obeidat%20Talent%20Exchange%20Work%20Sample.pdf)
+
+
 ## Overview
 
 Talent Exchange brings together two related project concepts:
