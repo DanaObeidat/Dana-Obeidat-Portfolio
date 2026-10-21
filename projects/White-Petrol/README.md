@@ -1,3 +1,6 @@
+
+<img src="wp.png" alt="White Petrol logo" width="300">
+
 # White Petrol
 
 **Industrial project design for assessing difficult hydrocarbon streams**
