@@ -68,6 +68,16 @@ Project design covering solid and liquid waste through stream-specific traceabil
 
 [View YWIG project](projects/YWIG/README.md)
 
+## Talent Exchange
+
+Strategic project concepts covering multisector workforce intelligence through TSX and healthcare talent exchange through TMX.
+
+**My contribution:** Strategic concept development, phased programme planning and proposed institutional partnership pathways.
+
+**Stage:** Concept and strategic planning.
+
+[View Talent Exchange project](projects/Talent-Exchange/README.md)
+
 
 
 ## Contact
