@@ -1,3 +1,6 @@
+
+<img src="YWIG.png" alt="YWIG logo" width="180">
+
 # YWIG — Your Waste Is Gold
 
 **Solid and Liquid Waste | Traceability, Material Intelligence and Evidence Controls**
