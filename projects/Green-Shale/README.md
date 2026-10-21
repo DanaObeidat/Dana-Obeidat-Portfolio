@@ -7,7 +7,9 @@
 
 Developed by Dana Obeidat
 
-Dana_Obeidat_Green_Shale_Work_Sample.pdf
+## Work Sample
+
+[View work sample (PDF)](Dana_Obeidat_Green_Shale_Work_Sample.pdf)
 
 
 ## Overview
