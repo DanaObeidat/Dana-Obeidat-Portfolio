@@ -7,6 +7,9 @@
 
 Developed by Dana Obeidat
 
+Dana_Obeidat_Green_Shale_Work_Sample.pdf
+
+
 ## Overview
 
 Green Shale is a documented project design for evaluating selected oil-shale-derived and associated mineral materials for potential industrial applications.
