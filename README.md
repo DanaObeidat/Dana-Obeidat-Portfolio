@@ -29,6 +29,11 @@ A documented project design connecting location-specific evidence, uncertainty a
 
 Water infrastructure project combining a working virtual demonstrator with documented system architecture, operational governance and pilot planning.
 
+**Stage:** Working demonstrator tested with synthetic data; field validation remains pending.
+
+[View HydroCode project](projects/HydroCode/README.md)
+
+
 ### Carbon Footprint MRV
 
 Institutional Scope 1 and Scope 2 emissions reporting, evidence traceability and review controls. Includes a functional prototype using synthetic data, with five user roles.
@@ -36,10 +41,6 @@ Institutional Scope 1 and Scope 2 emissions reporting, evidence traceability and
 [View project and work sample](projects/Carbon-MRV/README.md) · [Open prototype](https://carbon-footprint-mrv-demo.vercel.app)
 
 Demo access and a guided walkthrough are available on request.
-
-**Stage:** Working demonstrator tested with synthetic data; field validation remains pending.
-
-[View HydroCode project](projects/HydroCode/README.md)
 
 ## Contact
 [LinkedIn — Dana Obeidat](https://www.linkedin.com/in/dana-tariq-obeidat/)
