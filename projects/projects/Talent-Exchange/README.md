@@ -1,3 +1,6 @@
+
+<img src="TMX%20logo.png" alt="TMX logo" width="180">
+
 # Talent Exchange
 
 **Workforce Intelligence and Cross-Border Talent Exchange Concepts**
