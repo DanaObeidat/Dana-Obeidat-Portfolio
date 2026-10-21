@@ -75,6 +75,7 @@ Strategic project concepts covering multisector workforce intelligence through T
 **My contribution:** Strategic concept development, phased programme planning and proposed institutional partnership pathways.
 
 **Stage:** Concept and strategic planning.
+
 [View Talent Exchange project](projects/projects/Talent-Exchange/README.md)
 
 
