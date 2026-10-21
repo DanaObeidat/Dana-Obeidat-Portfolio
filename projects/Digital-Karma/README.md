@@ -44,6 +44,11 @@ Concept development and stakeholder outreach.
 
 The available materials do not establish a deployed system, functioning government integrations, validated scoring methodology or measured predictive accuracy.
 
+## Selected Work Sample
+
+[View work sample (PDF)](Dana%20Obeidat%20Digital%20Karma%20Work%20Sample.pdf)
+
+
 ## Professional Relevance
 
 This work illustrates concept development, performance-framework planning, executive communication and stakeholder outreach.
