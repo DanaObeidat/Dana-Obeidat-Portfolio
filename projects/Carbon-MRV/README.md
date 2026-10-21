@@ -14,6 +14,8 @@ Developed by Dana Obeidat
 
 [Open Carbon Footprint MRV Demo](https://carbon-footprint-mrv-demo.vercel.app)
 
+The demo includes five roles covering data entry, analysis, quality review, approval and auditing. Access and a guided walkthrough are available on request.
+
 Functional prototype using synthetic organisational data.
 Demo access is available on request.
 
