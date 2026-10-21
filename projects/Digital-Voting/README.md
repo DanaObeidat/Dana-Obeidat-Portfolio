@@ -1,3 +1,7 @@
+
+<img src="Digital%20Voting.png" alt="Digital Voting logo" width="180">
+
+
 # Digital Voting — Jordan Smart Elections
 
 **Election Process Design | Digital Support | Pilot Planning**
