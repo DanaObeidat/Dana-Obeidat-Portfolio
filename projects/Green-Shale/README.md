@@ -1,3 +1,6 @@
+
+<img src="Green%20Shale.png" alt="Green Shale logo" width="180">
+
 # Green Shale Platform
 
 **Material qualification, industrial pathway evaluation and pilot planning**
