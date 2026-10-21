@@ -88,6 +88,17 @@ An institutional concept connecting personal data rights, governance, controlled
 
 [View Personal Data Bank project](projects/Personal-Data-Bank/README.md)
 
+## Digital Karma
+
+A proposed framework for institutional performance monitoring, accountability and evidence-based management reporting.
+
+**My contribution:** Concept development, executive summary, exploration of institutional performance scoring, LinkedIn communication and stakeholder outreach.
+
+**Stage:** Concept development and stakeholder outreach.
+
+[View Digital Karma project](projects/Digital-Karma/README.md)
+
+
 
 
 ## Contact
