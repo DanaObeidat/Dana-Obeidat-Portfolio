@@ -50,5 +50,15 @@ Industrial project design covering difficult hydrocarbon stream assessment, trea
 
 [View White Petrol project](projects/White-Petrol/README.md)
 
+### Green Shale Platform
+
+Project design connecting material characterisation, environmental assessment, application testing, product qualification and buyer requirements.
+
+**Stage:** Documented concept, architecture and validation planning; project-specific industrial qualification remains pending.
+
+[View Green Shale project](projects/Green-Shale/README.md)
+
+
+
 ## Contact
 [LinkedIn — Dana Obeidat](https://www.linkedin.com/in/dana-tariq-obeidat/)
