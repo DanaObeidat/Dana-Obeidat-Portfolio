@@ -9,6 +9,12 @@ Developed by Dana Obeidat
 
 [View work sample (PDF)](Dana_Obeidat_MRV_Work_Sample.pdf)
 
+## Prototype
+
+[Open Carbon Footprint MRV Demo](https://carbon-footprint-mrv-demo.vercel.app)
+
+Functional prototype using synthetic organisational data.
+
 ## Overview
 
 Carbon Footprint MRV is a project for structuring institutional Scope 1 and Scope 2 emissions reporting around traceable evidence, controlled calculations and clearly assigned review responsibilities.
