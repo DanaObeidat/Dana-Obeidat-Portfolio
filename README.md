@@ -68,6 +68,20 @@ Project design covering solid and liquid waste through stream-specific traceabil
 
 [View YWIG project](projects/YWIG/README.md)
 
+
+### Environmental Data Analysis — Power BI
+
+An exploratory analysis of environmental indicators across countries and over time, using interactive Power BI visualisations to examine environmental KPIs, climate risk, forest-related patterns, urbanisation and waste generation.
+
+**My contribution:** Data analysis, dashboard development, visualisation design and presentation of findings.
+
+**Tools:** Microsoft Power BI, data analysis and data visualisation.
+
+**Stage:** Completed course project; findings are exploratory and do not establish causation or verified predictions.
+
+[View project and files](https://github.com/DanaObeidat/Dana-Obeidat-Portfolio/tree/main/projects/Environmental-Data-Analysis) · [Watch project presentation]((https://www.youtube.com/watch?v=NdFhXQSIZu8))
+
+
 ## Talent Exchange
 
 Strategic project concepts covering multisector workforce intelligence through TSX and healthcare talent exchange through TMX.
