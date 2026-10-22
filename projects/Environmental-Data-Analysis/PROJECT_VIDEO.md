@@ -15,7 +15,7 @@ The presentation covers:
 
 ## Watch the Presentation
 
-[Watch the full project video on YouTube][(PASTE_YOUR_YOUTUBE_LINK_HERE)](https://studio.youtube.com/video/NdFhXQSIZu8/edit)
+[Watch the full project video on YouTube][(https://studio.youtube.com/video/NdFhXQSIZu8/edit)](https://www.youtube.com/watch?v=NdFhXQSIZu8)
 
 ## Tools Used
 
